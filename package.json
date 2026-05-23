@@ -1,0 +1,18 @@
+{
+  "name": "smart-job-scheduler",
+  "version": "1.0.0",
+  "description": "BullMQ-powered Redis job scheduler with priority, delay, repeat, deduplication, FlowProducer, and Bull Board monitoring",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "seed": "node scripts/seed.js"
+  },
+  "dependencies": {
+    "@bull-board/express": "^7.1.0",
+    "bullmq": "^5.76.0",
+    "dotenv": "^17.4.2",
+    "express": "^4.21.0",
+    "ioredis": "^5.4.0"
+  }
+}

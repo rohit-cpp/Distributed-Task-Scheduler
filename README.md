@@ -433,3 +433,7 @@ This project demonstrates:
 6. **Deduplication & Flows:** Native BullMQ dedup and parent-child DAG execution (exclusive to BullMQ).
 7. **Serverless Redis Compatibility:** TLS connection to Upstash Redis — works with any cloud Redis provider.
 8. **Scale Testing:** Seed script that mass-enqueues 10,000 jobs with verified zero-failure throughput.
+
+
+<img width="1882" height="602" alt="Screenshot 2026-05-20 195253" src="https://github.com/user-attachments/assets/f15ebe3c-4e5e-4c80-a099-baa0d24dc46e" />
+<img width="1876" height="812" alt="Screenshot 2026-05-20 195343" src="https://github.com/user-attachments/assets/46a4b00c-d1a1-48e8-89b6-b2777f480780" />

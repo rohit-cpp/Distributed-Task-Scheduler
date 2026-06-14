@@ -201,7 +201,7 @@ Enables parent-child job dependencies. The `createJobChain()` function creates a
   "jobId": "custom-id"
 }
 ```
-
+...
 **Job Options:**
 | Field | Type | BullMQ Mapping |
 |-------|------|----------------|

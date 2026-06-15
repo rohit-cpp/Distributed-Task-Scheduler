@@ -3,7 +3,7 @@
 A Redis-backed job scheduling system powered by **BullMQ** with Express REST API, real-time monitoring via Bull Board, and support for priority queues, delayed jobs, repeatable cron tasks, deduplication, parent-child job flows, and graceful shutdown.
 
 ---
-
+.
 ## Table of Contents
 
 1. [Architecture Overview](#architecture-overview)
